@@ -1,0 +1,23 @@
+.facebook-image:hover {
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-image: url("social/facebook-hover.png");
+}
+
+.twitter-image:hover {
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-image: url("social/twitter-hover.png");
+}
+
+.youtube-image:hover {
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-image: url("social/youtube-hover.png");
+}
+
+a:hover .hover-image {
+  opacity: 0;
+  display: inline-block;
+  background-repeat: no-repeat;
+}
