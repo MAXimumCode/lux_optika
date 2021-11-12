@@ -51,3 +51,18 @@ body  {
   text-align: right;
   margin-right: 12%;
 }
+
+@media (max-width: 640px) {
+.title-large  {
+  font-size: 25px;
+  margin-right: 0%;
+}
+}
+
+@media (max-width:  360px) {
+.title-large  {
+  font-size: 25px;
+  margin-right: 0%;
+}
+}
+
