@@ -57,6 +57,12 @@ body  {
   font-size: 25px;
   margin-right: 0%;
 }
+  
+.title-medium  {
+  padding: 0 20px;
+  margin: 0;
+  margin-left: 5px;
+}
 }
 
 @media (max-width:  360px) {
@@ -64,5 +70,10 @@ body  {
   font-size: 25px;
   margin-right: 0%;
 }
+  
+.title-medium  {
+  padding: 0 20px;
+  margin: 0;
+  margin-left: 5px;
 }
-
+}
