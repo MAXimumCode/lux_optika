@@ -56,6 +56,11 @@
     top: auto;
     opacity: 1;
   }
+  
+  .header-logo-image  {
+    padding: 0 20px;
+    margin: 0;
+  }
 
   .header-nav,
   .header-logo {
@@ -64,6 +69,10 @@
 }
 
 @media (max-width:  360px) {
+   .header-logo-image  {
+    padding: 0 20px;
+    margin: 0;
+  }
   .header-nav-item {
     display: block;
   }
