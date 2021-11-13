@@ -42,4 +42,14 @@
   transform: scale(1.1);
 }
 
+@media (max-width: 640px) {
+.button-green  {
+  float: none;
+}
+}
 
+@media (max-width:  360px) {
+.button-green  {
+  float: none;
+}
+}
