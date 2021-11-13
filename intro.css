@@ -1,15 +1,15 @@
 .intro  {
   background-color: rgba(0, 0, 0, 0);
-  background-image: linear-gradient(rgba(138, 186, 86, 0), rgba(138, 186, 86, 0.3) 95%),
-                    url("bg.jpg") ;
-
+  background-image: linear-gradient(rgba(138, 186, 86, 0), rgba(138, 186, 86, 0.3) 95%);
+  height: 300px;
+  background: transparent;
   background-repeat: no-repeat;
   background-attachment: scroll, fixed;
   background-position: 0 0%, center top;
 
   color: #fff;
-  padding: 200px;
-  margin-top: 17px;
+  padding: 180px;
+  margin-top: 3px;
 }
 
 .intro-logo  {
